@@ -1,1 +1,85 @@
 /* Start coding here */
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+.title_blog {
+  font-family: "Sarabun", sans-serif;
+  color: #183b56;
+  font-size: 32px;
+  line-height: 16px;
+  font-weight: 700;
+  padding: 52px 0px 0px 55px;
+}
+
+.block_title {
+  background-color: #92aabd;
+  width: 100vw;
+  height: 120px;
+}
+
+.block_dialog1 {
+  width: 536px;
+  height: 321px;
+  border: 3px solid #183b56;
+  background-color: #e4e9ed;
+  margin: 50px 0px 0px 55px;
+}
+
+.block_dialog2 {
+  width: 536px;
+  height: 321px;
+  border: 3px solid #183b56;
+  background-color: #e4e9ed;
+  margin: 50px 0px 0px 55px;
+}
+
+.title_dialog1 {
+  font-family: sarabun;
+  color: #183b56;
+  font-weight: 400px;
+  font-size: 24px;
+  line-height: 26px;
+  padding: 30px 0px 0px 24px;
+}
+
+.title_dialog2 {
+  font-family: sarabun;
+  color: #183b56;
+  font-weight: 400px;
+  font-size: 24px;
+  line-height: 26px;
+  padding: 30px 0px 0px 24px;
+}
+
+.Img-dialog1 {
+  background-color: #eeeeee;
+  width: 404.75px;
+  height: 120px;
+  border: 2px solid #aaaaaa;
+  margin: 18px 0px 0px 25px;
+}
+
+.Img-dialog2 {
+  background-color: #eeeeee;
+  width: 404.75px;
+  height: 120px;
+  border: 2px solid #aaaaaa;
+  margin: 18px 0px 0px 25px;
+}
+.content-dialog2 {
+  margin: 18px 0px 0px 25px;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 400;
+  font-family: sarabun;
+}
+.content-dialog1 {
+  margin: 18px 0px 0px 25px;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 400;
+  font-family: sarabun;
+}
